@@ -1,9 +1,7 @@
 const CONFIG = {
     introTitle: 'Em pé à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim Mee lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Nay ngày gì í nhở
+    Nay hình như là ngày đặc biệt gì phải hong taaaa `,
     btnIntro: 'hihi <3',
     title: 'Em gì ơi, em đánh rơi người yêu này 😙',
     desc: 'Từ thích thích thành thành yêu yêu rồi thương thương ',
