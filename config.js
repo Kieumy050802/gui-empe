@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Em pé à!',
     introDesc: `Nay ngày gì í nhở
     Nay hình như là ngày đặc biệt gì phải hong taaaa `,
-    btnIntro: 'hihi <3',
+    btnIntro: 'hihi  <3',
     title: 'Em gì ơi, em đánh rơi người yêu này 😙',
     desc: 'Từ thích thích thành thành yêu yêu rồi thương thương ',
     btnYes: 'Em cá thương pé tró ạ <33',
